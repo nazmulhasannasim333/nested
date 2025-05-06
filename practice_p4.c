@@ -6,7 +6,6 @@ char small_to_capital(char ch)
     {
         return ch - 32;
     }
-    return ch;
 }
 
 int main()
